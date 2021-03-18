@@ -1,5 +1,5 @@
 # No commit:
-amaryans asuther8 csmit402 hhaynie psherri1
+amaryans asuther8 csmit402 psherri1
 
 # Results of accessing the IP
 
@@ -17,7 +17,7 @@ amaryans asuther8 csmit402 hhaynie psherri1
 |cbrook53.md| Chandler Brooks|
 |cchildr3.md| Blake Childress|
 |cketron2.md| Ross Ketron |
-|cromane1.md||
+|cromane1.md|Chris Romanelli|
 |dstewa23.md| Dereck Stewart II|
 |echavez2.md| Emanuel Chavez echavez2|
 |eswanger.md| Emory Swanger|
@@ -27,6 +27,7 @@ amaryans asuther8 csmit402 hhaynie psherri1
 |gstrick2.md| Georgia Stricklen|
 |hchannin.md| Harry Channing|
 |heigen.md|Henry J Eigen|
+|hhaynie.md| Heather Haynie |
 |hjohns66.md| Holland Johnson|
 |jbyers3.md| Joshua Byers|
 |jcarmac3.md| John Carmack|
@@ -41,7 +42,7 @@ amaryans asuther8 csmit402 hhaynie psherri1
 |kmcgee11.md| Kincaid McGee|
 |kvyas1.md| Kedar Vyas!|
 |ltillma4.md| Logan Tillman|
-|mscarfo.md||
+|mscarfo.md| Matthew Scarfo|
 |mstanto4.md| Megan Stanton|
 |nmize1.md||
 |oqueen.md| Owen Queen |
